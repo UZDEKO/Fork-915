@@ -55,11 +55,186 @@ ul{
 
 /* already start */
 
-
 /* already end */
 
 
 /* community start */
+.community_title{
+    text-align: center;
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 55px;
+    text-align: center;
+    color: #692340;
+    margin-bottom: 119px;
+    margin-top: 118px;
+    margin-left: 492px;
+    margin-right: 491px;
+    
+height: 110px;
+left: 34.17%;
+right: 34.1%;
+top: 5681px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 55px;
+
+/* or 110% */
+text-align: center;
+
+
+
+}
+.community_img{
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    width: 327px;
+height: 184px;
+
+
+}
+.cs_text{
+    width: 385px;
+    width: 354px;
+height: 186px;
+left: 984px;
+top: 6231px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 29px;
+
+margin-left: 40px;
+
+color: #692340;
+
+
+}
+.c_text{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 55px;
+color: #692340;
+margin-left: 40px;
+
+
+}
+.cy_text{
+    
+width: 354px;
+height: 61px;
+left: 108px;
+top: 6157px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 30px;
+color: #692340;
+margin-left: 40px;
+}
+.community_logo{
+    display: flex;
+}
+.community_text_text{
+    height: 53px;
+left: 24.9%;
+right: 33.2%;
+top: -1px;
+margin-right: 250px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 26px;
+margin-left: -332px;
+margin-top: 150px;
+text-align: center;
+
+color: #692340;
+
+
+}
+.community_paragraf{
+    border: 1px solid #692340;
+    height: 100px;
+    width: 200px;
+    justify-content: center;
+text-align: center;
+margin-left: 250px;
+margin-top: px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+
+
+
+
+color: #692340;
+
+
+}
+.community_text_text2{
+ 
+
+margin-left: 800px;
+margin-right: 323px;
+margin-top: -50px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 26px;
+
+
+text-align: center;
+
+color: #692340;
+}
+.community_card{
+    /* display: flex; */
+    /* justify-content: center; */
+}
+.community_block{
+    display: flex;
+    justify-content: center;
+}
+.co_text{
+    border: 1px solid #692340;
+    height: 100px;
+    width: 200px;
+text-align: center;
+margin-left: 780px;
+margin-top: 40px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 20px;
+margin-bottom: 250px;
+
+}
+.card_card2{
+margin-top: -140px;
+margin-bottom: -190px;
+}
+
+
+
+
+
 
 
 /* community end */
